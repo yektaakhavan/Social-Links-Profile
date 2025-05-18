@@ -16,7 +16,7 @@
 .prettierignore
 
 
-assets/images/
+assets/fonts/
 design/
 README-template.md
 style-guide.md
